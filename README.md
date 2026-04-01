@@ -34,28 +34,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [vue-core-mini](https://github.com/ah-kevin/vue-core-mini) | Mini implementation of Vue core | TypeScript |
-| [three-ng](https://github.com/ah-kevin/three-ng) | Three.js demo with Angular | TypeScript |
-| [webgl-storybook](https://github.com/ah-kevin/webgl-storybook) | WebGL stories with Storybook | TypeScript |
-| [whiteboard-ts](https://github.com/ah-kevin/whiteboard-ts) | Online whiteboard app | TypeScript / CSS |
-| [sell](https://github.com/ah-kevin/sell) | E-commerce back-end | Java / Spring Boot |
-| [go-daily](https://github.com/ah-kevin/go-daily) | Daily Go practice | Go |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ah-kevin&show_icons=true&theme=tokyonight&hide_border=true" alt="ah-kevin's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-kevin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ah-kevin&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
